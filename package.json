@@ -1,0 +1,29 @@
+{
+  "name": "@josephadogeridev/get-timestamp-js",
+  "version": "1.0.0",
+  "description": "A javascript module that returns timestamp (current day and time) in readable format",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadogeri/GetTimeStampJS.git"
+  },
+  "keywords": [
+    "javascript",
+    "timestamp",
+    "get-timestamp-js",
+    "@josephadogeridev",
+    "josephadogeridev",
+    "Date",
+    "JosephAdogeri",
+    "@josephadogeridev/get-timestamp-js"
+  ],
+  "author": "Joseph Adogeri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadogeri/GetTimeStampJS/issues"
+  },
+  "homepage": "https://github.com/jadogeri/GetTimeStampJS#readme"
+}
