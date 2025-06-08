@@ -54,8 +54,8 @@ This is a javascript npm package for creating timestamp in readable format.
         <li><a href="#4-tests">4. Tests</a> </li>
         <ul>
             <li><a href="#41-test-from-node_modules">4.1 Test from node_modules</a> </li>
-            <li><a href="#42-test-from-npm-link">4.2 Test from npm link</a> </li>
-            <li><a href="#43-test-from-npm-pack">4.3 Test using npm pack</a> </li>
+            <li><a href="#42-test-using-npm-link">4.2 Test using npm link</a> </li>
+            <li><a href="#43-test-using-npm-pack">4.3 Test using npm pack</a> </li>
         </ul>
     </ul> 
     <ul>  
@@ -155,7 +155,7 @@ note : run test from node_modules after <a href="#3-usage"> Usage</a>
 ![](assets/images/testusingjest.png)
 
 
-#### **4.2 Test from NPM Link**
+#### **4.2 Test using NPM Link**
 
 Note : this test was done pre publish to npm manager
 
@@ -216,7 +216,7 @@ export default App;
 
 ![](assets/images/reactusage.png)
 
-#### **4.3 Test from NPM Pack**
+#### **4.3 Test using NPM Pack**
 
 Note : this test was done pre publish to npm manager
 
